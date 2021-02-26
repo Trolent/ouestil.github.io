@@ -32,7 +32,7 @@ var x = [
 ];
  
 var y = [
-	'OUSLEGLITCH',
+	'OUSLATRAD°',
 	'c8rtcq-jfs',
 	'.i#n.uj.1n',
 	'b!?z!xz_uj',
