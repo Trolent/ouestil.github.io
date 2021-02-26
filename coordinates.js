@@ -1,5 +1,5 @@
 var x = [
-	'retrouvere',
+	'TROUVEREZV',
 	'wkkckms$w!',
 	'snktmkjqby',
 	'0aqsteq##j',
@@ -32,7 +32,7 @@ var x = [
 ];
  
 var y = [
-	'zvouskyan?',
+	'OUSLEGLITCH',
 	'c8rtcq-jfs',
 	'.i#n.uj.1n',
 	'b!?z!xz_uj',
